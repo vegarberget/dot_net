@@ -1,4 +1,7 @@
 # dot_net
+[This workshop](https://code.visualstudio.com/docs/containers/quickstart-aspnet-core)
+
+# Trouble
 
 Unable to generate assets to build and debug. OmniSharp server is not running
 
@@ -12,4 +15,4 @@ Unable to generate assets to build and debug. OmniSharp server is not running
 *    Search for OmniSharp
 *    Select "OmniSharp: Restart Omnisharp"
 *    Then wait for it to restart or agree to it to restart then wait
-*    Now then if u try to add what u going to add it should work :)*
+*    Now then if u try to add what u going to add it should work :)
